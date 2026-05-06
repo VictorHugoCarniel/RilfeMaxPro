@@ -9,6 +9,7 @@ consultar o total da compra e a quantidade de cada item;
 remover itens do carrinho;
 alterar a quantidade de produtos já adicionados.
 
+```text
 Toda a lógica é implementada no front-end, utilizando React, JavaScript, HTML e CSS, com o Vite como bundler e servidor de desenvolvimento.
 Tecnologias utilizadas
 React
@@ -17,8 +18,6 @@ Vite
 HTML
 CSS
 
-
-´´´text
 Como executar o projeto
 Na pasta raiz do projeto, execute:
 
@@ -29,7 +28,5 @@ Iniciar o servidor de desenvolvimento
 
 npm run dev
 Acessar no navegador
-
-text
 http://localhost:5173
-´´´
+```
