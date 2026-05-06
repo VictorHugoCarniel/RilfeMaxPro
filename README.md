@@ -9,8 +9,9 @@ consultar o total da compra e a quantidade de cada item;
 remover itens do carrinho;
 alterar a quantidade de produtos já adicionados.
 
-```text
 Toda a lógica é implementada no front-end, utilizando React, JavaScript, HTML e CSS, com o Vite como bundler e servidor de desenvolvimento.
+
+```text
 Tecnologias utilizadas
 React
 JavaScript
