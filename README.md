@@ -1,17 +1,35 @@
-Atividade desenvolvida na faculdade UTFPR no curso de ADS focado no desenvolvimetno FrontEnd usando principalmente
-```text
- React
- HTML
- CSS
- JavaScript
- Vite
-```
-  O projeto possui sistema uma página onde mostra os produtos cadastrados onde podem ser adicionados ao carrinho de compras que pode ser acessado ao clicar no icone e mostra
-os produtos adicionados, total dos produtos e quantidades também permitindo remover e alterar quantidades.
+RilfeMaxPro
+Projeto desenvolvido como atividade do curso de Análise e Desenvolvimento de Sistemas (UTFPR), com foco em práticas de desenvolvimento Front-end utilizando React e Vite.
 
-```text
-  Para funcionar acessar a pasta principal pelo terminal
-  Passo 1 > npm i
-  Passo 2 > npm start
-  Passo 3 > Abrir no navegador: Localhost:5173
-```
+A aplicação simula uma pequena loja virtual, exibindo uma lista de produtos cadastrados e permitindo ao usuário:
+visualizar os produtos disponíveis;
+adicionar produtos ao carrinho de compras;
+visualizar o carrinho ao clicar no ícone correspondente;
+consultar o total da compra e a quantidade de cada item;
+remover itens do carrinho;
+alterar a quantidade de produtos já adicionados.
+
+Toda a lógica é implementada no front-end, utilizando React, JavaScript, HTML e CSS, com o Vite como bundler e servidor de desenvolvimento.
+Tecnologias utilizadas
+React
+JavaScript
+Vite
+HTML
+CSS
+
+
+´´´text
+Como executar o projeto
+Na pasta raiz do projeto, execute:
+
+Instalar dependências
+
+npm install
+Iniciar o servidor de desenvolvimento
+
+npm run dev
+Acessar no navegador
+
+text
+http://localhost:5173
+´´´
