@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Carabina",
+        "marca": "Winchester",
+        "price": "R$ 12.600,00",
+        "originalPrice": "R$ 20.800,00",
+        "discount": 15,
+        "imageUrl": "carabinaLE.png"
+    },
+    {
+        "id": 2,
+        "name": "Rifle",
+        "marca": "Winchester", 
+        "price": "R$ 10.200,00",
+        "imageUrl": "rifleLE.png"
+    },
+    {
+        "id": 3,
+        "name": "Rifle de Precisao",
+        "marca": "Winchester",
+        "price": "R$ 18.900,00",
+        "originalPrice": "R$ 25.800,00",
+        "discount": 17,
+        "imageUrl": "riflePrecisaoLE.png"
+    },
+    {
+        "id": 4,
+        "name": "Pistola",
+        "marca": "Winchester",
+        "price": "R$ 4.000,00",
+        "imageUrl": "pistolaLE.png"
+    }
+]
